@@ -1,3 +1,4 @@
+# Ejercicio Deploy to Azure: crea y destruye el entorno segun la etiqueta del PR.
 name: Configure Azure environment
 
 on:
